@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json
+https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json
+https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json
+https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json
